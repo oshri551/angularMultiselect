@@ -1,0 +1,8 @@
+{
+    "name"      : "isteven-angular-multiselect",
+    "version"   : "v4.0.0",
+    "main"      : [
+        "src/isteven-multi-select.js",
+        "src/isteven-multi-select.css"
+    ]
+}
